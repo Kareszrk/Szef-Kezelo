@@ -7,9 +7,9 @@
 
 ## Tesztelt környezetek:
 
-- Windows 7 Ultimate
-- Windows 10
-- Windows 10 Pro
+- Windows 10 (Kompatibilis)
+- Windows 10 Pro (Kompatibilis)
+- Windows 7 Ultimate (Nem kompatibilis)
 
 ## Saját jelszó megadása
 
